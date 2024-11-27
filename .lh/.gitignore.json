@@ -1,0 +1,18 @@
+{
+    "sourceFile": ".gitignore",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1732715443420,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1732715443420,
+            "name": "Commit-0",
+            "content": "# Node modules\nnode_modules/\n\n# Log files\n*.log\n\n# Compiled JavaScript files\n/dist/\n/build/\n\n# React Native build folders\n# (se stai usando React Native, includi queste righe)\n# /ios/Pods\n# /android/build\n\n# TypeScript compiled files\n*.tsbuildinfo\n\n# Environment variables\n.env\n.env.local\n.env.development\n.env.test\n.env.production\n\n# VSCode settings\n.vscode/\n\n# JetBrains IDEs\n.idea/\n\n# macOS system files\n.DS_Store\n\n# Windows system files\nThumbs.db\n\n# npm logs\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\n\n# Next.js build\n.next/\n\n# Expo (React Native) build\n.expo/\n\n# Storybook build output\n.out/\n\n# Temporary files for IDEs\n*.swp\n*.swo\n\n# Test coverage output (e.g., Istanbul)\ncoverage/\n\n# Optional npm cache directory\n.npm/\n\n# Debugging files\n*.tgz\n\n# Eslint cache\n.eslintcache\n"
+        }
+    ]
+}
